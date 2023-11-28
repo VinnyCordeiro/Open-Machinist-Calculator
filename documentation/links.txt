@@ -1,0 +1,23 @@
+Raspberry Pi Pico -- 4x4 Matrix Keypad and 1602 LCD Interface
+https://www.instructables.com/Raspberry-Pi-Pico-4x4-Matrix-Keypad-and-1602-LCD-I/
+
+Use Matrix Keypad with Raspberry PI Pico to get User Codes Input
+https://peppe8o.com/use-matrix-keypad-with-raspberry-pi-pico-to-get-user-codes-input/
+
+Raspberry Pi Pico Interrupts & Button Interfacing Tutorial Using MicroPython.
+https://electrocredible.com/raspberry-pi-pico-external-interrupts-button-micropython/
+
+ILI9341 TFT display with Arduino
+https://electronoobs.com/eng_arduino_tut58.php
+
+Color 320x240 TFT Touchscreen, ILI9341 Controller Chip (for reference)
+https://www.pjrc.com/store/display_ili9341_touch.html
+
+Arduino Calculator
+https://projecthub.arduino.cc/123samridhgarg/arduino-calculator-bce0df
+
+Arduino Calculator Using 4X4 Keypad 
+https://www.instructables.com/Arduino-Calculator-Using-4X4-Keypad/
+
+How to Make a Simple Arduino Uno Calculator
+https://linuxhint.com/make-simple-calculator-arduino-uno/
