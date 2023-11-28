@@ -8,7 +8,7 @@ Because I'm interested in learning machining and that already-available calculat
 
 * ***Why have you chosen the CERN Open Hardware Licence?***
 
-Because as much as I love the GPL, it was created for Open Source **Software**. Open Source Hardware is an entirely different beast, with very different concerns and needs to be attended, there's even an [article](https://www.gnu.org/philosophy/free-hardware-designs.en.html) concerning that on the GNU website. This is my first Open Source Hardware project that is in full compliance with the CERN-OHL-S v2 licence, I have others licensed with earlier versions that need to be upgraded *and* modified to be fully compliant, but that's off-topic.
+Because as much as I love the GPL, it was created for Open Source **Software**. Open Source Hardware is an entirely different beast, with very different concerns and needs to be attended, there's even an [article](https://www.gnu.org/philosophy/free-hardware-designs.en.html) concerning that on the GNU website.
 
 ### TODO
 * Start the code for real instead of a place holder. That also means researching all the formulas for each function, both for metric and imperial measurements. That'll be fun. 🙃
