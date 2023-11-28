@@ -12,6 +12,7 @@ Because as much as I love the GPL, it was created for Open Source **Software**. 
 
 ### TODO
 * Start the code for real instead of a place holder. That also means researching all the formulas for each function, both for metric and imperial measurements. That'll be fun. 🙃
+* Create a separate repository for the code and license under the GPL v3, the CERN licence is just for the hardware.
 * The case is by no means water/dust proof, and that can be a huge problem with metallic dust from machining. That's something that needs improvement.
 
 ### UPDATES
